@@ -14,7 +14,7 @@ It’s widely used for modern applications requiring scalability, high availabil
 - 📊 **Aggregation Framework** — Data analysis & pipelines  
 - 🔄 **Replication** — High availability with replica sets  
 - 📡 **Sharding** — Horizontal scaling for big data  
-- 🔐 **Transactions** — ACID compliance for multiple documents  
+- 🔐 **Transactions** — ACID compliance for multiple documents 
 
 ---
 
