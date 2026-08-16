@@ -23,7 +23,6 @@ It’s widely used for modern applications requiring scalability, high availabil
 |-----------|---------|
 | MongoDB   | Database |
 | Compass   | GUI for MongoDB |
-| Node.js   | Backend integration |
 | Mongoose  | ODM for MongoDB |
 
 ---
@@ -31,7 +30,7 @@ It’s widely used for modern applications requiring scalability, high availabil
 ## 📘 Learning Resources
 - [MongoDB Official Docs](https://www.mongodb.com/docs/)  
 - [MongoDB University](https://learn.mongodb.com/)  
-- Tutorials & practice from **Chai aur Code** playlist  
+- Tutorials & practice from **Engineering Digest** playlist  
 
 ---
 
